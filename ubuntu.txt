@@ -1,0 +1,55 @@
+1. sudo apt-get update && sudo apt-get -y upgrade && sudo apt-get clean && sudo apt-get -y autoremove #Update
+2. N: Ignoring file '50unattended-upgrades.ucf-old' in directory '/etc/apt/apt.conf.d/' as it has an invalid filename extension
+	http://askubuntu.com/questions/829370/n-ignoring-file-50unattended-upgrades-ucf-dist-in-directory-etc-apt-apt-con
+3. http://www.webupd8.org/2016/04/things-to-do-after-installing-ubuntu-1604-lts-xenial-xerus.html
+	a. sudo apt install ubuntu-restricted-extras
+	b. sudo apt install libavcodec-extra
+4. http://scienceblogs.com/gregladen/2016/06/23/things-to-do-after-installing-ubuntu-16-04-lts-how-to/
+	a. Show Your User Name On The Top Menu Bar
+		1. gsettings set com.canonical.indicator.session show-real-name-on-panel true
+5. https://www.unixmen.com/top-things-installing-ubuntu-16-04/
+	a. Disable Guest login account
+		1. gksu gedit /etc/lightdm/lightdm.conf
+		2. 
+			[SeatDefaults]
+			greeter-session=unity-greeter
+			allow-guest=false
+		3. sudo /etc/init.d/lightdm restart
+6. https://www.unixmen.com/top-things-installing-ubuntu-16-04/
+	1. Install VLC media Player
+		a. sudo apt-get install vlc browser-plugin-vlc
+7. http://www.webupd8.org/2016/04/things-to-do-after-installing-ubuntu-1604-lts-xenial-xerus.html
+	1.  Oracle Java
+		sudo add-apt-repository ppa:webupd8team/java
+		sudo apt update
+		sudo apt install oracle-java8-installer
+	2. [Dev tool] Install Ubuntu Make
+		sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
+		sudo apt update
+		sudo apt install ubuntu-make
+		a. http://askubuntu.com/questions/770779/why-cant-i-get-android-studio-from-umake-anymore
+	3. Umake.
+		a. sudo umake android android-studio
+			https://developer.android.com/studio/run/emulator.html#vm-linux
+		b. sudo umake android android-sdk
+			1. /home/animeshb/.local/share/umake/android/android-sdk
+	
+8. http://www.noobslab.com/2016/04/important-20-tweaksthings-to-do-after.html
+	1. Enable recursive search for Nautilus:
+		a. gsettings set org.gnome.nautilus.preferences enable-interactive-search false
+	2. Codecs and Enable DVD Playback:
+		a. sudo apt-get install ffmpeg gxine libdvdread4 icedax tagtool libdvd-pkg easytag id3tool lame libxine2-ffmpeg nautilus-script-audio-convert libmad0 mpg321 libavcodec-extra gstreamer1.0-libav
+
+9. Installing both Sublime text 2 and 3.
+	1. http://www.hostingadvice.com/how-to/untar-file-linuxubuntu/
+		a. Mind-Blowingly-Simple Extraction (The dtrx Function)
+	2. http://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2-3
+	3. Enable Package Control
+		a. https://packagecontrol.io/installation
+10. https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04
+	1. sudo apt-get install git
+	2. ln -s myWork/myDotFiles/gitconfig .gitconfig
+	3. https://gist.github.com/pksunkara/988716
+11. Shutter - Feature-rich Screenshot Tool
+	1. sudo add-apt-repository ppa:shutter/ppa
+		sudo apt-get update && sudo apt-get install shutter
