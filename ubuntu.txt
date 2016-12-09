@@ -53,3 +53,16 @@
 11. Shutter - Feature-rich Screenshot Tool
 	1. sudo add-apt-repository ppa:shutter/ppa
 		sudo apt-get update && sudo apt-get install shutter
+12. Anaconda.
+	1. https://www.continuum.io/downloads
+	2. bash Anaconda3-4.2.0-Linux-x86_64.sh
+	3. location :- /home/animeshb/anaconda3/bin
+	4. Python 3.5.2 :: Anaconda 4.2.0 (64-bit)
+	5. http://conda.pydata.org/docs/py2or3.html
+		a. conda create -n py35 python=3.5 anaconda
+			1. source activate py35
+			2. source deactivate py35
+		b. conda create -n py27 python=2.7 anaconda
+			1. source activate py27
+			2. source deactivate py27
+	6. http://stackoverflow.com/questions/28436769/how-to-change-default-anaconda-python-environment
