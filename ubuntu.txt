@@ -81,4 +81,33 @@
 		c. sudo tasksel install lamp-server
 	3. Change Document Root to home directory
 		a. https://julienrenaux.fr/2015/04/06/changing-apache2-document-root-in-ubuntu-14-x/
+15. Install Full VIM
+	1. https://github.com/Valloric/YouCompleteMe/wiki/Building-Vim-from-source
+		a. sudo apt-get install libncurses5-dev libgnome2-dev libgnomeui-dev \
+    libgtk2.0-dev libatk1.0-dev libbonoboui2-dev \
+    libcairo2-dev libx11-dev libxpm-dev libxt-dev python-dev \
+    python3-dev ruby-dev lua5.1 liblua5.1-dev libperl-dev git
+    2. https://github.com/archerImagine/myNewJunk/tree/master/miscNotes
+    ./configure --with-features=huge \
+            --enable-multibyte \
+            --enable-rubyinterp \
+            --enable-pythoninterp \
+            --with-python-config-dir=/usr/lib/python2.7/config-x86_64-linux-gnu/ \
+            --enable-perlinterp \
+            --enable-luainterp \
+            --enable-gui=gtk2 --enable-cscope --prefix=/usr \
+            --prefix=/home/animeshb/myBin
+make
+make install
+sudo update-alternatives --install /usr/bin/editor editor /home/animeshb/myBin/bin/vim 1
+sudo update-alternatives --set editor /home/animeshb/myBin/bin/vim
+sudo update-alternatives --install /usr/bin/vi vi /home/animeshb/myBin/bin/vim 1
+sudo update-alternatives --set vi /home/animeshb/myBin/bin/vim          
+
+sudo update-alternatives --install /usr/bin/vim vim /home/animeshb/myBin/bin/vim 1
+sudo update-alternatives --set vim /home/animeshb/myBin/bin/vim                 
+
+
+
+    Markdown Preview Plus
 
