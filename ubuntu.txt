@@ -140,5 +140,8 @@ TargetEnvironment=Unity
 
 19. Google Online Accounts
 	a. http://www.omgubuntu.co.uk/2016/08/use-google-drive-ubuntu-16-04-linux-desktops
+
+20. Git CLient
+	a. http://eclipxe.com.mx/debian/contrib/gitkraken/download.txt
     Markdown Preview Plus
 
