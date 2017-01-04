@@ -106,8 +106,39 @@ sudo update-alternatives --set vi /home/animeshb/myBin/bin/vim
 
 sudo update-alternatives --install /usr/bin/vim vim /home/animeshb/myBin/bin/vim 1
 sudo update-alternatives --set vim /home/animeshb/myBin/bin/vim                 
+16. Install JetBrains Software.
+	1. Intelij Idea
+		a. tar -xzvf ideaIU-2016.3.1.tar.gz -C ~/.local/
+		b. /home/animeshb/.local/share/applications/jetbrains-idea.desktop
+
+[Desktop Entry]
+Version=1.0
+Name=IntelliJ IDEA
+# Only KDE 4 seems to use GenericName, so we reuse the KDE strings.
+# From Ubuntu's language-pack-kde-XX-base packages, version 9.04-20090413.
+GenericName=Text Editor
+
+Exec=/home/animeshb/.local/idea-IU-163.9166.29/bin/idea.sh
+Terminal=false
+Icon=/home/animeshb/.local/idea-IU-163.9166.29/bin/idea.png
+Type=Application
+Categories=TextEditor;IDE;Development
+X-Ayatana-Desktop-Shortcuts=NewWindow
+
+[NewWindow Shortcut Group]
+Name=New Window
+Exec=/home/animeshb/.local/idea-IU-163.9166.29/bin/idea.sh -n
+TargetEnvironment=Unity
 
 
+17. Bash Aliasies.
+	18. http://askubuntu.com/questions/17536/how-do-i-create-a-permanent-bash-alias - "There are lot of ways to create alias. The most used ways are :"
+	19. Create bash_
 
+18. Acrobat Reader
+	a. http://askubuntu.com/questions/767937/how-to-install-adobe-acrobat-in-ubuntu-16-04
+
+19. Google Online Accounts
+	a. http://www.omgubuntu.co.uk/2016/08/use-google-drive-ubuntu-16-04-linux-desktops
     Markdown Preview Plus
 
