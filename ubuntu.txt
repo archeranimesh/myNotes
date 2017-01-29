@@ -144,4 +144,7 @@ TargetEnvironment=Unity
 20. Git CLient
 	a. http://eclipxe.com.mx/debian/contrib/gitkraken/download.txt
     Markdown Preview Plus
+21. Color Full Terminal.
+	a. https://scottlinux.com/2013/07/08/enable-colorful-terminal-in-debian-and-ubuntu/
+	b. ls --color
 
