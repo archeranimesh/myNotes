@@ -147,4 +147,5 @@ TargetEnvironment=Unity
 21. Color Full Terminal.
 	a. https://scottlinux.com/2013/07/08/enable-colorful-terminal-in-debian-and-ubuntu/
 	b. ls --color
+23.
 
