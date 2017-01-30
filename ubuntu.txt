@@ -147,5 +147,6 @@ TargetEnvironment=Unity
 21. Color Full Terminal.
 	a. https://scottlinux.com/2013/07/08/enable-colorful-terminal-in-debian-and-ubuntu/
 	b. ls --color
-23.
+23. Deluge.
+	a. http://askubuntu.com/questions/284659/why-am-i-unable-start-the-deluge-daemon-from-connection-manager
 
