@@ -1,0 +1,4 @@
+1. Vim Configurations
+2. http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
+    a. https://github.com/tpope/vim-pathogen
+    b. https://github.com/github/gitignore/blob/master/Global/Vim.gitignore
