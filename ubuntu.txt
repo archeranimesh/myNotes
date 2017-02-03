@@ -153,3 +153,5 @@ TargetEnvironment=Unity
 	a. http://superuser.com/questions/436910/emulate-256-colors-in-putty-terminal
 25. Samba Share
 	a. https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%20Samba%20Via%20CLI%20(Command-line%20interface/Linux%20Terminal)%20-%20Uncomplicated,%20Simple%20and%20Brief%20Way!
+26. Git Submodule
+    a. https://chrisjean.com/git-submodules-adding-using-removing-and-updating/
