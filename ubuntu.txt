@@ -149,4 +149,5 @@ TargetEnvironment=Unity
 	b. ls --color
 23. Deluge.
 	a. http://askubuntu.com/questions/284659/why-am-i-unable-start-the-deluge-daemon-from-connection-manager
-
+24. SSH Color
+	a. http://superuser.com/questions/436910/emulate-256-colors-in-putty-terminal
