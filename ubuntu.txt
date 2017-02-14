@@ -157,3 +157,5 @@ TargetEnvironment=Unity
     a. https://chrisjean.com/git-submodules-adding-using-removing-and-updating/
 27. Creating shortcut for Nautilius.
 	a. http://askubuntu.com/questions/483917/is-there-any-shortcut-keys-to-open-nautilus
+29. Difference between apt-get upgrade and software updater.
+	a. http://askubuntu.com/questions/362872/is-using-software-updater-the-same-thing-as-running-apt-get-update-and-apt-get-u
