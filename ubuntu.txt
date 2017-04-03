@@ -66,6 +66,8 @@
 			1. source activate py27
 			2. source deactivate py27
 	6. http://stackoverflow.com/questions/28436769/how-to-change-default-anaconda-python-environment
+	7. List conda environments
+		a. conda info --envs
 13. how to push code to github without providing username password every time
 	1. SSH
 	2. https://help.github.com/articles/checking-for-existing-ssh-keys/
