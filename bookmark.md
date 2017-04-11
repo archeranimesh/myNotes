@@ -1,1 +1,2 @@
 1. [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
+2. [Add exiting repo to github](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
