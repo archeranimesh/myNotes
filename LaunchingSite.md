@@ -39,6 +39,24 @@ These are the only changes required to be done in GitHub.
 
 ## Configure the DNS at [GoDaddy](https://in.godaddy.com/) ##
 
+The most easiest of the all the below references is [Configuring a Godaddy domain name with github pages](http://andrewsturges.com/blog/jekyll/tutorial/2014/11/06/github-and-godaddy.html).
+
+The real issue is all of the links shows the old UI of [GoDaddy](https://in.godaddy.com/), so some things get confusing.
+
+1. Go to the account setting page, which mostly will like in this [link](https://mya.godaddy.com/?pc=urlargs).
+2. The link will look like this.
+3. ![Godaddy Accounts Settings](launchSite/accountSettingsGodaddy.png "Godaddy Accounts Settings")
+4. Click on the `+` Symbols in Front of Domain, and Click on the `Manage DNS ` Link
+5. ![Godaddy DNS Management](launchSite/manageDNS.png "Godaddy DNS Management")
+6. The link will show a lot of `Records`, go to the end of the `Records`, and click on the link **ADD**
+7. ![Godaddy Add Options](launchSite/AddOption.png "Godaddy Add Options")
+8. From the above option we have to add 3 entries.
+9. These is how all the 3 would look like after adding.
+
+![Godaddy A Options](launchSite/AOptions.png "Godaddy A Options")
+![Godaddy www Options](launchSite/wwwOption.png "Godaddy www Options")
+
+Now you can launch and check your desired domain. Kindly wait 48 hrs for these changes to reflect, do not try to configure multiple times, if it does not work even after 48 hours kindly search for help, till then take a coffee break and have a nice time out of this screen.
 
 ## References ##
 
