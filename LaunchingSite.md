@@ -58,9 +58,28 @@ The real issue is all of the links shows the old UI of [GoDaddy](https://in.goda
 
 Now you can launch and check your desired domain. Kindly wait 48 hrs for these changes to reflect, do not try to configure multiple times, if it does not work even after 48 hours kindly search for help, till then take a coffee break and have a nice time out of this screen.
 
+## The domain XYX is no longer parked by godaddy ##
+
+When we are doing the above process, even after 24 hours, when you launch your website, we find one of these error.
+
+1. The domain XYX is no longer parked by godaddy
+2. It is detected as a Malware in the office network.
+
+The website might launch for some times and sometimes you might get any one of the above 2 errors. kindly check this in the **Manage DNS** page.
+
+* We had added two **A** Names pointing to the GitHub URL as shown below.
+![Godaddy A Options](launchSite/AOptions.png "Godaddy A Options")
+
+Check if you have any other **A** Names in addition to the above two, if you have, kindly delete that. The detailed issue can be read [GoDaddy domain (randomly) not resolving to GitHub Pages](https://serverfault.com/questions/743327/godaddy-domain-randomly-not-resolving-to-github-pages)
+
 ## References ##
 
 1. [Setting Up a GoDaddy Domain Name With GitHub](http://www.mycowsworld.com/blog/2015/07/12/setting-up-a-godaddy-domain-name-with-github/)
 2. [Configuring a Godaddy domain name with github pages](http://andrewsturges.com/blog/jekyll/tutorial/2014/11/06/github-and-godaddy.html)
 3. [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
 4. [Using GitHub Pages To Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
+5. [GoDaddy domain (randomly) not resolving to GitHub Pages](https://serverfault.com/questions/743327/godaddy-domain-randomly-not-resolving-to-github-pages)
+6. [[Help]: How to correctly connect my github pages blog to a custom domain?](https://www.reddit.com/r/webdev/comments/653q6z/help_how_to_correctly_connect_my_github_pages/)
+7. [Redirecting GitHub Page to a custom domain](https://ongspxm.github.io/blog/2016/08/github-custom-domain-godaddy/)
+    1. Kindly read the above site, to understand what is the use of CNAME and A Record. Great introduction. 
+
