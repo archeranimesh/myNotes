@@ -13,6 +13,12 @@
     * [Full Stack Python](https://www.fullstackpython.com/pelican.html)
     * [Setting up a blog with Pelican and GitHub Pages](http://cyrille.rossant.net/pelican-github/)
     * [Creating your blog with Pelican](http://chdoig.github.io/create-pelican-blog.html)
+* [Good Site for understanding some Pelican Configuration](http://reachtim.com/articles/pelican-configuration-for-reachtimcom.html)
+* [How I Migrated my Wordpress Blog to a Static Site](http://jamesmurty.com/2013/05/23/migrate-wordpress-blog-to-static-site/)
+* [Setup a static Python-powered blog/website with Pelican](http://csparpa.github.io/blog/2014/11/setup-static-blog-with-pelican.html)
+* [Building a data science portfolio: Making a data science blog](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
+* [Elegant theme issues.](https://github.com/talha131/pelican-elegant/issues/98)
+
 
 
 
