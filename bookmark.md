@@ -18,6 +18,7 @@
 * [Setup a static Python-powered blog/website with Pelican](http://csparpa.github.io/blog/2014/11/setup-static-blog-with-pelican.html)
 * [Building a data science portfolio: Making a data science blog](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
 * [Elegant theme issues.](https://github.com/talha131/pelican-elegant/issues/98)
+* [HTML meta mischief in Pelican blog posts](http://www.voidynullness.net/blog/2013/05/25/html-meta-description-in-pelican-blog-posts/)
 
 
 

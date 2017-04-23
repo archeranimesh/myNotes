@@ -25,6 +25,15 @@ PLUGIN_PATHS should be used in place of PLUGIN_PATH
     - Search results come, but with undefined links
         + https://github.com/talha131/pelican-elegant/issues/147
         + http://moparx.com/2014/04/adding-search-capabilities-within-your-pelican-powered-site-using-tipue-search/
+* TOC.
+    - [TOC]
+    - MD_EXTENSIONS = (['toc'])
+    - https://github.com/getpelican/pelican-plugins/tree/master/extract_toc
+    - `MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid',
+                'toc(permalink=true)']`
+    - TO `'markdown.extensions.toc' :{'permalink' : 'true'},`
+
+
 
 
 
