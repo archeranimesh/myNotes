@@ -34,6 +34,7 @@ PLUGIN_PATHS should be used in place of PLUGIN_PATH
     - TO `'markdown.extensions.toc' :{'permalink' : 'true'},`
 
 * Automatic file header.
+* [FileHeader](https://github.com/shiyanhui/FileHeader)
     - Sublime Text - File Header.
         + [Gist | Markdown TMPL](https://gist.github.com/archeranimesh/dcd1773af0ad41e9e1572d293becaa87)
         + Settings
