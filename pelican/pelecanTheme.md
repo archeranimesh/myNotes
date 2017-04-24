@@ -33,7 +33,19 @@ PLUGIN_PATHS should be used in place of PLUGIN_PATH
                 'toc(permalink=true)']`
     - TO `'markdown.extensions.toc' :{'permalink' : 'true'},`
 
-
+* Automatic file header.
+    - Sublime Text - File Header.
+        + [Gist | Markdown TMPL](https://gist.github.com/archeranimesh/dcd1773af0ad41e9e1572d293becaa87)
+        + Settings
+````
+{
+    "custom_template_header_path": "/home/<username>/.config/sublime-text-2/Packages/User/fileHeaderTemplatesUser",
+    "Default": {
+        "author": "XYZ ABC"
+    }
+    
+}
+````
 
 
 
