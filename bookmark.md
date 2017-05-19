@@ -19,6 +19,9 @@
 * [Building a data science portfolio: Making a data science blog](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
 * [Elegant theme issues.](https://github.com/talha131/pelican-elegant/issues/98)
 * [HTML meta mischief in Pelican blog posts](http://www.voidynullness.net/blog/2013/05/25/html-meta-description-in-pelican-blog-posts/)
+* [Python | Derek Banas | Youtube](https://www.youtube.com/watch?v=N4mEzFDjqtA)
+* [Using (Ana)conda within PyCharm](http://stackoverflow.com/questions/28390961/using-anaconda-within-pycharm)
+* [Extract without First Directory | tar](https://www.marksanborn.net/linux/extract-without-first-directory/)
 
 
 
