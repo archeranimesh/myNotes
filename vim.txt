@@ -7,5 +7,6 @@
     e. https://www.youtube.com/watch?v=SkdrYWhh-8s
     f. https://vi.stackexchange.com/questions/7722/how-to-debug-a-mapping
     h. http://raddevon.com/articles/debugging-vim-keymaps
-    https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db
+    i. https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db
+    j. https://www.youtube.com/watch?v=5r6yzFEXajQ
 
