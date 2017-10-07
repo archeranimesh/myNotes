@@ -163,4 +163,5 @@ TargetEnvironment=Unity
 	a. http://askubuntu.com/questions/362872/is-using-software-updater-the-same-thing-as-running-apt-get-update-and-apt-get-u
 30. Launch Terminal in maximized mode.
 	a. https://www.thinkingmedia.ca/2015/06/open-terminal-in-ubuntu-14-0-4-in-fullscreen-or-as-maximized-window-by-default/
+	b. https://askubuntu.com/questions/1158/how-to-set-the-terminal-to-open-maximized
 31. https://askubuntu.com/questions/891529/software-updater-issue-16-04/891532#891532
