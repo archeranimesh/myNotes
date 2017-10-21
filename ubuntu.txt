@@ -83,6 +83,7 @@
 		c. sudo tasksel install lamp-server
 	3. Change Document Root to home directory
 		a. https://julienrenaux.fr/2015/04/06/changing-apache2-document-root-in-ubuntu-14-x/
+		b. https://askubuntu.com/questions/337874/change-apache-document-root-folder-to-secondary-hard-drive
 15. Install Full VIM
 	1. https://github.com/Valloric/YouCompleteMe/wiki/Building-Vim-from-source
 		a. sudo apt-get install libncurses5-dev libgnome2-dev libgnomeui-dev \
