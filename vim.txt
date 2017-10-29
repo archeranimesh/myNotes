@@ -11,4 +11,5 @@
     j. https://www.youtube.com/watch?v=5r6yzFEXajQ
     k. https://www.youtube.com/watch?v=XA2WjJbmmoM
     l. https://shapeshed.com/vim-statuslines/
+    m. http://got-ravings.blogspot.in/2008/08/vim-pr0n-making-statuslines-that-own.html
 
