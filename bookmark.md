@@ -22,3 +22,4 @@
 * [Python | Derek Banas | Youtube](https://www.youtube.com/watch?v=N4mEzFDjqtA)
 * [Using (Ana)conda within PyCharm](http://stackoverflow.com/questions/28390961/using-anaconda-within-pycharm)
 * [Extract without First Directory | tar](https://www.marksanborn.net/linux/extract-without-first-directory/)
+* [Some suggested practice and reading materials can be found here](https://www.codesmith.io/apply-login/apply)
