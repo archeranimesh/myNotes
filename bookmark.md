@@ -23,3 +23,4 @@
 * [Using (Ana)conda within PyCharm](http://stackoverflow.com/questions/28390961/using-anaconda-within-pycharm)
 * [Extract without First Directory | tar](https://www.marksanborn.net/linux/extract-without-first-directory/)
 * [Some suggested practice and reading materials can be found here](https://www.codesmith.io/apply-login/apply)
+* [The best Data Science courses on the internet, ranked by your reviews](https://medium.freecodecamp.org/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40)
