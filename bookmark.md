@@ -25,3 +25,6 @@
 * [Some suggested practice and reading materials can be found here](https://www.codesmith.io/apply-login/apply)
 * [The best Data Science courses on the internet, ranked by your reviews](https://medium.freecodecamp.org/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40)
 * [How I 10xed My Productivity With Trello and Organized My Entire Life, Projects and Businesses](https://www.youtube.com/watch?v=0ttlgf-x5VA)
+
+9. Linux Tips
+    * [linuxize](https://linuxize.com/)
